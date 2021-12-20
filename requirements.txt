@@ -1,22 +1,22 @@
 attrs==19.3.0
-certifi==2019.11.28
+# certifi==2019.11.28
 Click==7.0
 cycler==0.10.0
 Flask==1.1.1
-Flask-Cors==3.0.8
+Flask-Cors
 importlib-metadata==1.4.0
-gast==0.3.3
+# gast==0.3.3
 google-pasta==0.2.0
 grpcio==1.27.2
 gunicorn==20.0.4
-Flask-MonitoringDashboard==3.0.6
+# Flask-MonitoringDashboard==3.0.6
 itsdangerous==1.1.0
 Jinja2==2.11.0
 joblib==0.14.1
 jsonschema==3.2.0
 kiwisolver==1.1.0
 kneed==0.5.1
-gevent==1.2.1
+# gevent==1.2.1
 MarkupSafe==1.1.1
 matplotlib==3.1.2
 more-itertools==8.1.0
@@ -35,7 +35,8 @@ Werkzeug==0.16.1
 wincertstore==0.2
 xgboost==0.90
 zipp==2.0.1
-cassandra-driver==3.25.0
+# cassandra-driver==3.25.0
 imbalanced-learn == 0.8.0
 json5
 scipy==1.5.4
+
